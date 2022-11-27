@@ -1,5 +1,7 @@
 $Variable1 = 12
 $Variable2 = 32
+
+# Using a IF statement to check variables and if they are not equal to each other
 if ( $Variable1 -ne $Variable2 )
 {
 Write-Output "The condition was true"

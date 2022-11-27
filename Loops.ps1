@@ -22,6 +22,7 @@ $val++
 Write-Host $val
 }
 
+# A more complicated While loop using a switch command to test input.
 while(($inp = Read-Host -Prompt "Select a command") -ne "Q"){
     switch($inp){
     L {"File will be deleted"}

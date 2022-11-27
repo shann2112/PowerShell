@@ -1,10 +1,13 @@
+# A simple string example and changing its case.
 $StringValue = "Yoo hoo!"
 $StringValue.ToUpper()
 $StringValue.ToLower()
 
+# Set array and then pick out a value at position 2
 $MyArray = 1,2,3,4,5
 $MyArray[1]
 
+# Display the type on the integer
 $LittleNumber = 12345
 $LittleNumber.GetType()
 $BigNumber = 123456789123456789
