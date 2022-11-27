@@ -1,3 +1,7 @@
+# MIck Shannon L00177543
+# This fike contains a collection of loops
+
+# a FOR loop 
 for ($counter = 0; $counter -lt 10; $counter++)
 {
 $counter
@@ -10,7 +14,7 @@ foreach ($Letter in $MyArray)
 $Letter
 }
 
-# While Loops
+# While Loops, Set a value, iterate and increment value. Use the Not Equal to continue
 $val = 0
 while($val -ne 3)
 {
