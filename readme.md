@@ -1,5 +1,5 @@
 # Michael Shannon L00177543 Assignment 2 PowerShell #
-![img.png](atu.jpg)
+![img.png](PowerShell7.jpg)
 ---
 # This readme file contains Assignment Instructions Part 2 #
 
